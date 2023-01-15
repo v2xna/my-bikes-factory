@@ -1,0 +1,45 @@
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Data.deps.json
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Data.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\ref\MyBikesFactory.Data.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Data.pdb
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Business.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Business.pdb
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.csproj.CopyComplete
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\ref\MyBikesFactory.Data.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.pdb
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Data.deps.json
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Data.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\ref\MyBikesFactory.Data.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Data.pdb
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Business.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Business.pdb
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.csproj.CopyComplete
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\ref\MyBikesFactory.Data.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.pdb
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Data.deps.json
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Data.dll
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Data.pdb
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Business.dll
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Business.pdb
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.csproj.CopyComplete
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.dll
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\refint\MyBikesFactory.Data.dll
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.pdb
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\ref\MyBikesFactory.Data.dll

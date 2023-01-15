@@ -1,0 +1,36 @@
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.deps.json
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\ref\MyBikesFactory.Business.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.pdb
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\ref\MyBikesFactory.Business.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.pdb
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.deps.json
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\ref\MyBikesFactory.Business.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.pdb
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.AssemblyInfo.cs
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\ref\MyBikesFactory.Business.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.pdb
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.deps.json
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.dll
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.pdb
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.dll
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\refint\MyBikesFactory.Business.dll
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.pdb
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\ref\MyBikesFactory.Business.dll

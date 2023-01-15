@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBike xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Bike xsi:type="RoadBike">
+    <SerialNumber>767</SerialNumber>
+    <Name>MeteorBike</Name>
+    <Model>FF23X</Model>
+    <ManufacturingYear>2001</ManufacturingYear>
+    <Color>Red</Color>
+    <TireType>Gravel</TireType>
+  </Bike>
+  <Bike xsi:type="MountainBike">
+    <SerialNumber>111</SerialNumber>
+    <Name>SunBike</Name>
+    <Model>ZZLLG</Model>
+    <ManufacturingYear>2012</ManufacturingYear>
+    <Color>Black</Color>
+    <SuspensionType>Dual</SuspensionType>
+  </Bike>
+  <Bike xsi:type="MountainBike">
+    <SerialNumber>67</SerialNumber>
+    <Name>Burn</Name>
+    <Model>DAA51</Model>
+    <ManufacturingYear>2017</ManufacturingYear>
+    <Color>Blue</Color>
+    <SuspensionType>Rear</SuspensionType>
+  </Bike>
+  <Bike xsi:type="RoadBike">
+    <SerialNumber>95</SerialNumber>
+    <Name>Street Bike</Name>
+    <Model>JD677</Model>
+    <ManufacturingYear>2022</ManufacturingYear>
+    <Color>Green</Color>
+    <TireType>Regular</TireType>
+  </Bike>
+  <Bike xsi:type="RoadBike">
+    <SerialNumber>9785</SerialNumber>
+    <Name>Frost Ranger</Name>
+    <Model>FF99X</Model>
+    <ManufacturingYear>2020</ManufacturingYear>
+    <Color>Red</Color>
+    <TireType>Regular</TireType>
+  </Bike>
+</ArrayOfBike>

@@ -1,0 +1,69 @@
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.exe
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.deps.json
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.runtimeconfig.json
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\ref\MyBikesFactory.UI.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.pdb
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Business.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Data.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Business.pdb
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Data.pdb
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.LoginForm.resources
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.MainForm.resources
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.GenerateResource.cache
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.CopyComplete
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\ref\MyBikesFactory.UI.dll
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.pdb
+C:\Users\GAMER\Desktop\Semester2\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.genruntimeconfig.cache
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.exe
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.deps.json
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.runtimeconfig.json
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\ref\MyBikesFactory.UI.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.pdb
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Business.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Data.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Business.pdb
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Data.pdb
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.LoginForm.resources
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.MainForm.resources
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.AssemblyInfo.cs
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.CopyComplete
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\ref\MyBikesFactory.UI.dll
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.pdb
+C:\Users\User\Desktop\Semester2\ObjectOriented\OOP\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.genruntimeconfig.cache
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.exe
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.deps.json
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.runtimeconfig.json
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.dll
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.UI.pdb
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Business.dll
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Data.dll
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Business.pdb
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\bin\Debug\net6.0-windows\MyBikesFactory.Data.pdb
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.LoginForm.resources
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.MainForm.resources
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.GenerateResource.cache
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.csproj.CopyComplete
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.dll
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\refint\MyBikesFactory.UI.dll
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.pdb
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\MyBikesFactory.UI.genruntimeconfig.cache
+C:\Users\GAMER\Desktop\LaSalle_College\Semester2\OOP\OOP After Midterm\MyBikesFactory\MyBikesFactory.UI\obj\Debug\net6.0-windows\ref\MyBikesFactory.UI.dll
